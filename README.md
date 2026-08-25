@@ -31,6 +31,7 @@ Wedding planning is a logistics problem wearing a nice dress: a guest list that 
 
 * [Hitched](https://www.hitched.co.uk) - UK-focused planning platform with venue and supplier directories.
 * [Joy](https://withjoy.com) - Free wedding websites, RSVPs, registry, and guest management in a single product.
+* [Nozzio](https://nozzio.com) - Guest, RSVP, seating, budget, tasks, vendors, collaboration, and wedding websites in one planning workspace.
 * [The Knot](https://www.theknot.com) - Vendor marketplace plus planning tools; one of the two largest US wedding platforms.
 * [WeddingWire](https://www.weddingwire.com) - Vendor reviews and directory with planning tools, now under the same parent as The Knot.
 * [Zola](https://www.zola.com) - Registry-led platform that expanded into websites, RSVPs, invitations, and planning checklists.
