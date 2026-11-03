@@ -22,6 +22,7 @@ Wedding planning is a logistics problem wearing a nice dress: a guest list that 
 
 * [PerfectTablePlan](https://www.perfecttableplan.com) - Long-standing desktop seating planner for Windows and Mac, with automatic assignment from proximity rules.
 * [Prismm](https://www.prismm.com) - Formerly AllSeated; 3D venue diagramming and event visualization used across the venue and catering industry.
+* [Seat & Gather](https://wedding-seating-chart.egorkagangster.chatgpt.site) - Manual guest seating and capacity checks; CSV/XLSX/print exports. Five successful export/print actions free, then $5 once; no subscription.
 * [Social Tables](https://www.socialtables.com) - Cvent's event diagramming and seating product, aimed at hotels and venues.
 * [Table Planner](https://www.tableplanner.com) - Browser-based table layout and guest assignment tool.
 * [Wedding Charts](https://weddingcharts.com) - Feet-accurate floor plan canvas with eight table shapes, 27 venue objects, and CAD/DXF import at scale. Applies keep-together and keep-apart rules when arranging guests and flags violations rather than resolving them silently. Exports seating posters, tent and escort cards with cut guides, per-table caterer lists, and a QR guest-lookup page.
