@@ -71,6 +71,7 @@ Wedding planning is a logistics problem wearing a nice dress: a guest list that 
 
 * [Aisle Planner](https://www.aisleplanner.com) - Planning, design, and client collaboration suite for wedding professionals.
 * [Dubsado](https://www.dubsado.com) - Client management, contracts, and invoicing used widely by event and creative businesses.
+* [Family Formals](https://samsbench.com/family-formals/) - Plans the family photo session: shot list, an order that lets guests leave early, and call cards for whoever calls names; free, no account.
 * [HoneyBook](https://www.honeybook.com) - Proposals, contracts, payments, and scheduling for client-based small businesses.
 * [Planning Pod](https://www.planningpod.com) - Event management with diagramming, budgets, and vendor coordination.
 
